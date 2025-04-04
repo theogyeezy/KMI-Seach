@@ -1,0 +1,21 @@
+Town,State,Population,Region,Bond_Amount,Bond_Purpose,Approval_Date,Expiration_Date,Educational_Institution,Athletic_Division,Contact_Name,Contact_Role,Contact_Info,Bond_Documentation_Link
+Tifton,GA,16500,South,12000000,Athletic Field Renovation,2023-05-15,2028-05-15,Abraham Baldwin Agricultural College,NAIA,John Smith,Athletic Director,jsmith@abac.edu,https://www.abac.edu/athletics/facilities
+Pippa Passes,KY,600,South,3500000,Sports Complex Construction,2024-02-10,2029-02-10,Alice Lloyd College,NAIA,Mary Johnson,Facilities Director,mjohnson@alc.edu,https://www.alc.edu/athletics/facilities
+Grand Rapids,MI,198000,Midwest,8500000,Athletic Field Upgrades,2023-11-05,2028-11-05,Aquinas College,NAIA,Robert Williams,Athletic Director,rwilliams@aquinas.edu,https://www.aquinas.edu/athletics
+Adrian,MI,20000,Midwest,5200000,Baseball Field Renovation,2024-01-20,2029-01-20,Adrian College,DIII,Sarah Miller,Facilities Manager,smiller@adrian.edu,https://adrian.edu/athletics
+Albion,MI,8300,Midwest,4800000,Track and Field Complex,2023-08-15,2028-08-15,Albion College,DIII,James Wilson,Athletic Director,jwilson@albion.edu,https://www.albion.edu/athletics
+Alfred,NY,3600,Northeast,3200000,Multi-purpose Athletic Field,2024-03-05,2029-03-05,Alfred University,DIII,Patricia Brown,Development Director,pbrown@alfred.edu,https://www.alfred.edu/athletics
+Ashland,OH,20000,Midwest,7500000,Athletic Facility Expansion,2023-10-12,2028-10-12,Ashland University,DII,Michael Davis,Athletic Director,mdavis@ashland.edu,https://goashlandeagles.com
+Augusta,GA,202000,South,6800000,Baseball Complex Renovation,2024-04-01,2029-04-01,Augusta University,DII,Jennifer Garcia,Facilities Director,jgarcia@augusta.edu,https://www.augusta.edu/athletics
+Bemidji,MN,15000,Midwest,5500000,Ice Arena Upgrades,2023-09-18,2028-09-18,Bemidji State University,DII,David Thompson,Athletic Director,dthompson@bemidjistate.edu,https://www.bsubeavers.com
+Dayton,TN,7500,South,4200000,Athletic Field Construction,2024-02-28,2029-02-28,Bryan College,NAIA,Thomas Anderson,Facilities Manager,tanderson@bryan.edu,https://www.bryanlions.com
+Eugene,OR,170000,West,9500000,Athletic Complex Renovation,2023-07-10,2028-07-10,Bushnell University,NAIA,Elizabeth Martin,Development Director,emartin@bushnell.edu,https://www.bushnellbeacons.com
+Vallejo,CA,120000,West,6200000,Maritime Athletic Facility,2024-01-15,2029-01-15,California State University Maritime Academy,NAIA,Richard Taylor,Athletic Director,rtaylor@csum.edu,https://www.csum.edu/athletics
+Merced,CA,83000,West,7800000,Athletic Field Expansion,2023-11-20,2028-11-20,University of California Merced,NAIA,Susan White,Facilities Director,swhite@ucmerced.edu,https://www.ucmercedbobcats.com
+Whiting,IN,4800,Midwest,3800000,Multi-sport Complex,2024-03-15,2029-03-15,Calumet College of St. Joseph,NAIA,Joseph Clark,Athletic Director,jclark@ccsj.edu,https://www.ccsj.edu/athletics
+Helena,MT,32000,West,5100000,Athletic Field Renovation,2023-08-05,2028-08-05,Carroll College,NAIA,Nancy Lewis,Development Director,nlewis@carroll.edu,https://www.carrollathletics.com
+Conway,AR,65000,South,4500000,Baseball/Softball Complex,2024-02-05,2029-02-05,Central Baptist College,NAIA,Daniel Walker,Facilities Manager,dwalker@cbc.edu,https://www.cbcmustangs.com
+McPherson,KS,13000,Midwest,3900000,Athletic Field Upgrades,2023-10-08,2028-10-08,Central Christian College of Kansas,NAIA,Karen Hall,Athletic Director,khall@centralchristian.edu,https://www.ccctigers.com
+Fayette,MO,2800,Midwest,4100000,Multi-purpose Athletic Facility,2024-01-25,2029-01-25,Central Methodist University,NAIA,Christopher Young,Facilities Director,cyoung@centralmethodist.edu,https://www.cmueagles.com
+Dubuque,IA,58000,Midwest,5300000,Athletic Complex Renovation,2023-09-12,2028-09-12,Clarke University,NAIA,Michelle Rodriguez,Development Director,mrodriguez@clarke.edu,https://www.clarkepride.com
+Howell,MI,9600,Midwest,3600000,Athletic Field Construction,2024-03-10,2029-03-10,Cleary University,NAIA,Steven Harris,Athletic Director,sharris@cleary.edu,https://www.clearycougars.com
