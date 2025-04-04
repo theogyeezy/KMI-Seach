@@ -2,7 +2,7 @@ import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { RootState, AppDispatch } from '../store';
 import { setFilterOptions, resetFilters } from '../store/municipalitiesSlice';
-import { FilterOptions } from '../types';
+// import { FilterOptions } from '../types';
 
 const FilterPanel: React.FC = () => {
   const dispatch = useDispatch<AppDispatch>();
